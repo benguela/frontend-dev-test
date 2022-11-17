@@ -32,4 +32,4 @@ All assets/files needed to build and view the page in a browser.
  - Or email us your code
 
 
-
+If you'd like to demonstrate your JavaScript skills, please have a look at the [Interactive Developer Test](https://github.com/benguela/interactive-dev-test)
