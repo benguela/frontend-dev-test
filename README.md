@@ -21,7 +21,7 @@ In `designs.zip` there are PSD's for each of the following breakpoints:
  - We will be judging your submission based on:
  	- Elegance of your CSS and HTML
  	- Accuracy of your build relative to the designs (We'll be checking your build across multiple browsers)
- - If you have any questions, please [submit an issue](https://github.com/NATIVEVML/frontend-dev-test/issues)
+
 
 ## Deliverables
 
@@ -31,8 +31,5 @@ All assets/files needed to build and view the page in a browser.
  - Or email us a link to your repo
  - Or email us your code
 
-Get in touch with us at <careers@native.co.za>
 
-## Bonus Round
 
-If you'd like to demonstrate your JavaScript skills, please have a look at our [Interactive Developer Test](https://github.com/NATIVEVML/interactive-dev-test)
